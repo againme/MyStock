@@ -22,7 +22,7 @@ MyStock, MyStock Pro 주식매매일지 개인정보 처리방침
 3. 처리하는 개인정보의 항목 작성
 
     ① [ MyStock 주식매매일지 ] 는 다음의 개인정보 항목을 처리하고 있습니다.
-
+    <pre>
     android.permission.INTERNET : 인터넷 억세스
     android.permission.ACCESS_NETWORK_STATE : 인터넷 상태체크
     android.permission.ACCESS_COARSE_LOCATION : 위치정보
@@ -32,6 +32,7 @@ MyStock, MyStock Pro 주식매매일지 개인정보 처리방침
     android.permission.BROADCAST_STICKY : 알림서비스
     android.permission.READ_SMS : SMS 읽기
     android.permission.RECEIVE_SMS : SMS 받은 문자 확인
+    </pre>
 
 
 * [ MyStock 주식매매일지 ] 단순히, 앱의 데이타저장 . 그 외의 어떠한 자료도 수집 및 처리하지 않습니다.
@@ -56,17 +57,14 @@ MyStock, MyStock Pro 주식매매일지 개인정보 처리방침
 
     ① [ MyStock 주식매매일지 ] 는 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
 
-    ▶ 개인정보 보호책임자 및 담당부서
-        성명 : 최성호
-        직책 : 대표
-        연락처 : againme.dev@gmail.com
+    ② 정보주체께서는 [ MyStock 주식매매일지 ] 의 서비스을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. <[ MyStock 주식매매일지 ] 은(는) 정보주체의 문의에 대해 지체없이 답변 및 처리해드릴 것입니다.
+
+    <pre>
     ▶ 개인정보 보호책임자 및 담당부서
     1) 성명 : 최성호
     2) 직책 : 대표
     3) 연락처 : againme.dev@gmail.com
-
-
-    ② 정보주체께서는 [ MyStock 주식매매일지 ] 의 서비스을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. <[ MyStock 주식매매일지 ] 은(는) 정보주체의 문의에 대해 지체없이 답변 및 처리해드릴 것입니다.
+    </pre>
 
 
 7. 개인정보 처리방침 변경
