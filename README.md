@@ -23,15 +23,15 @@ MyStock, MyStock Pro 주식매매일지 개인정보 처리방침
 
     ① [ MyStock 주식매매일지 ] 는 다음의 개인정보 항목을 처리하고 있습니다.
 
-    <uses-permission android:name="android.permission.INTERNET" /> : 인터넷 억세스
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> : 인터넷 상태체크
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> : 위치정보
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> : 위치정보
-    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" /> : 위치정보
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> : 외부저장 장치
-    <uses-permission android:name="android.permission.BROADCAST_STICKY" /> : 알림서비스
-    <uses-permission android:name="android.permission.READ_SMS" /> : SMS 읽기
-    <uses-permission android:name="android.permission.RECEIVE_SMS" /> : SMS 받은 문자 확인
+    android.permission.INTERNET : 인터넷 억세스
+    android.permission.ACCESS_NETWORK_STATE : 인터넷 상태체크
+    android.permission.ACCESS_COARSE_LOCATION : 위치정보
+    android.permission.ACCESS_FINE_LOCATION : 위치정보
+    android.permission.ACCESS_LOCATION_EXTRA_COMMANDS : 위치정보
+    android.permission.WRITE_EXTERNAL_STORAGE : 외부저장 장치
+    android.permission.BROADCAST_STICKY : 알림서비스
+    android.permission.READ_SMS : SMS 읽기
+    android.permission.RECEIVE_SMS : SMS 받은 문자 확인
 
 
 * [ MyStock 주식매매일지 ] 단순히, 앱의 데이타저장 . 그 외의 어떠한 자료도 수집 및 처리하지 않습니다.
@@ -60,6 +60,11 @@ MyStock, MyStock Pro 주식매매일지 개인정보 처리방침
         성명 : 최성호
         직책 : 대표
         연락처 : againme.dev@gmail.com
+    ▶ 개인정보 보호책임자 및 담당부서
+    1) 성명 : 최성호
+    2) 직책 : 대표
+    3) 연락처 : againme.dev@gmail.com
+
 
     ② 정보주체께서는 [ MyStock 주식매매일지 ] 의 서비스을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. <[ MyStock 주식매매일지 ] 은(는) 정보주체의 문의에 대해 지체없이 답변 및 처리해드릴 것입니다.
 
